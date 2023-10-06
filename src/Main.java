@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab1 {
+public class lab {
     public static void main(String[] args) {
             Scanner dot = new Scanner(System.in);
             System.out.println("Введите координаты первой точки");
